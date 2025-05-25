@@ -14,7 +14,7 @@ const About: React.FC = () => {
             <div className="absolute -bottom-4 -right-4 w-72 h-72 bg-green-100 dark:bg-green-900/20 rounded-lg transform rotate-6 z-0"></div>
             <div className="relative z-10 bg-white dark:bg-gray-800 p-1 rounded-lg shadow-xl overflow-hidden">
               <img 
-                src="https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://ik.imagekit.io/123e/me3__1_-removebg-preview.png?updatedAt=1748180684807" 
                 alt="Abdulhadi" 
                 className="w-full h-full object-cover rounded-lg"
               />
